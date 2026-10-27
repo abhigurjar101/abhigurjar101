@@ -5,6 +5,16 @@ New Delhi, India · [LinkedIn](https://www.linkedin.com/in/abhigurjar)
 
 I build practical AI tools with Python, machine learning, NLP, and retrieval-augmented generation. My work spans AI/ML engineering, data pipelines, REST APIs, and teaching learners how to turn concepts into working projects.
 
+## Recent applications
+
+### [OmniCode AI](https://github.com/abhigurjar101/omnicode-ai)
+
+A coding-agent prototype combining a LangGraph controller, repository retrieval, code-editing tools, test/quality checks, SQLite memory, a FastAPI service, CLI and Next.js/Monaco workspace. The published source includes 32 passing unit/integration tests and a verified frontend build. Deterministic fallback behavior and execution boundaries are documented. [Frontend preview](https://web-azure-psi-54.vercel.app) · [Architecture and setup](https://github.com/abhigurjar101/omnicode-ai#readme).
+
+### [AGI — Artificial Green Intelligence](https://github.com/abhigurjar101/agi-energy)
+
+An interactive data-center directory and renewable-energy planning prototype with Leaflet maps, sizing inputs, assumption-based cost/cash-flow calculations, charts and 3D presentation. The source includes five calculator/fallback tests and a verified Vite build. Seed data, simulated workflows and financial-model limits are explicit. [Live website](https://agi-energy.vercel.app) · [Source and full description](https://github.com/abhigurjar101/agi-energy#readme).
+
 ## Selected projects
 
 | Project | What you can inspect |
