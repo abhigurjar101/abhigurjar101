@@ -9,12 +9,12 @@ I build practical AI tools with Python, machine learning, NLP, and retrieval-aug
 
 | Project | What you can inspect |
 |---|---|
-| [NEMI](https://github.com/abhigurjar101/nemi) | Local AI assistant with vector retrieval, source-grounded graph relationships, JSON persistence and an optional Neo4j mirror |
-| [Document retrieval baseline](https://github.com/abhigurjar101/intelligent-document-rag-system) | Term-frequency retrieval, source excerpts and regression tests; a compact baseline for document QA |
+| [LangGraph agentic workflows](https://github.com/abhigurjar101/langgraph-agentic-workflows) | Typed state, parallel reducers, conditional retrieval, bounded review loops and human approval; seven offline tests |
+| [NEMI](https://github.com/abhigurjar101/nemi) | Local AI assistant with hybrid retrieval, source-grounded graph relationships, JSON persistence and an optional Neo4j mirror |
+| [NLP API](https://github.com/abhigurjar101/nlp-sentiment-classification-fastapi) | FastAPI endpoints, keyword sentiment, optional transformer summarization and API tests |
+| [Decision-tree ML labs](https://github.com/abhigurjar101/decision-tree-ml-labs) | Classification and regression on synthetic data, training-only cross-validation, tuning and model tests |
+| [Sales ETL and insights](https://github.com/abhigurjar101/sales-etl-insights-pipeline) | Validated aggregation, computed summaries, transactional SQLite loading and optional AI summaries |
 | [NYC taxi analysis](https://github.com/abhigurjar101/nyc-taxi-fare-prediction) | Trip-data exploration notebook and an illustrative rule-based fare calculator |
-| [NLP API](https://github.com/abhigurjar101/nlp-sentiment-classification-fastapi) | FastAPI endpoints, a keyword sentiment baseline, optional transformer summarization and API tests |
-| [Hybrid recommendations](https://github.com/abhigurjar101/hybrid-ai-recommendation-engine) | Content-tag similarity blended with user-neighborhood collaborative filtering on synthetic data |
-| [AI classroom teaching agent](https://github.com/abhigurjar101/ai-classroom-teaching-agent) | Local Ollama tutoring with Streamlit student and teacher views |
 
 These repositories include experiments and demonstrations. Each README describes what is implemented, how to reproduce it, and the remaining limitations.
 
